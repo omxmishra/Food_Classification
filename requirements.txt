@@ -1,0 +1,8 @@
+tensorflow>=2.21.0
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+seaborn
+scikit-learn
